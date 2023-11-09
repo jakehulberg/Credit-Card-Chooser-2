@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba4a9735-e5b1-4d43-996c-598ea11702a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CCChooser_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/CCChooser_2.py" afterDir="false" />
-    </list>
+    <list default="true" id="ba4a9735-e5b1-4d43-996c-598ea11702a7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698806295514</updated>
       <workItem from="1698806297043" duration="77000" />
-      <workItem from="1699493124201" duration="323000" />
+      <workItem from="1699493124201" duration="381000" />
     </task>
     <servers />
   </component>
